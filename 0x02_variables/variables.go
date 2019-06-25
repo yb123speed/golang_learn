@@ -29,8 +29,8 @@ func main(){
 
 	name1, age6 := "naveen", 29 //short hand declaration
     fmt.Println("my name is", name1, "age is", age6)
-	
-	name1, age7 := "yebin", 34
+
+	name1, age7 := "yebin", 34 // one new variable
 	fmt.Println("my name is", name1, "age is", age7)
 }
 
